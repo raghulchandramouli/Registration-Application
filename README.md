@@ -26,20 +26,10 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-registration-app/
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── ...
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── ...
-│   ├── package.json
-│   └── ...
-└── README.md
+- Backend:
+  1. Main.py
+  2. Models.py
+  3. config.py
 
 ## License
 
